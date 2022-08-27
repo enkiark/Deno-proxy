@@ -1,4 +1,3 @@
 # Deno Proxy
 
-
-Available soon
+In development...
